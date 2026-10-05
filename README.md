@@ -13,6 +13,17 @@ The main goal of this project is not just to make an application work, but to un
 
 ---
 
+## 📚 Learning Guide
+
+This project is being developed step by step to understand Clean Architecture and Dependency Injection rather than simply copying a predefined architecture.
+
+A detailed learning guide is available here:
+
+👉 [UserSpace Clean Architecture & DI Learning Guide]([UserSpace_Clean_Architecture_DI_Learning_Guide.pdf](https://github.com/user-attachments/files/33064955/UserSpace_Clean_Architecture_DI_Learning_Guide.pdf)
+)
+
+---
+
 ## 🎯 Learning Approach
 
 UserSpace is being developed incrementally.

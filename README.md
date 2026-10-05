@@ -19,8 +19,9 @@ This project is being developed step by step to understand Clean Architecture an
 
 A detailed learning guide is available here:
 
-👉 [UserSpace Clean Architecture & DI Learning Guide]([UserSpace_Clean_Architecture_DI_Learning_Guide.pdf](https://github.com/user-attachments/files/33064955/UserSpace_Clean_Architecture_DI_Learning_Guide.pdf)
-)
+👉 UserSpace Clean Architecture & DI Learning Guide
+[UserSpace_Clean_Architecture_DI_Learning_Guide.pdf](https://github.com/user-attachments/files/33065005/UserSpace_Clean_Architecture_DI_Learning_Guide.pdf)
+
 
 ---
 

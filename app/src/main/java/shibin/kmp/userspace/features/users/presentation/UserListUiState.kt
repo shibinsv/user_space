@@ -1,6 +1,6 @@
-package shibin.kmp.userspace.presentation.users
+package shibin.kmp.userspace.features.users.presentation
 
-import shibin.kmp.userspace.domain.model.User
+import shibin.kmp.userspace.features.users.domain.model.User
 
 sealed interface UserListUiState {
 

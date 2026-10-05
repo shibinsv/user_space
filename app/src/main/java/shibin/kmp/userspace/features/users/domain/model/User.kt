@@ -1,4 +1,4 @@
-package shibin.kmp.userspace.domain.model
+package shibin.kmp.userspace.features.users.domain.model
 
 data class User(
     val id: Int,

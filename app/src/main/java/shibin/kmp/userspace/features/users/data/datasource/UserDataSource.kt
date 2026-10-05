@@ -1,6 +1,6 @@
-package shibin.kmp.userspace.data.datasource
+package shibin.kmp.userspace.features.users.data.datasource
 
-import shibin.kmp.userspace.domain.model.User
+import shibin.kmp.userspace.features.users.domain.model.User
 import javax.inject.Inject
 
 class UserDataSource @Inject constructor() {
@@ -24,17 +24,7 @@ class UserDataSource @Inject constructor() {
                 name = "Alex Johnson",
                 email = "alex@gmail.com",
                 city = "Mumbai"
-            ),
-            User(
-                id = 4,
-                name = "Priya Kumar",
-                email = "priya@gmail.com",
-                city = "Hyderabad"
             )
         )
-    }
-
-    suspend fun getUser(id: Int): User {
-        return getUsers().first { it.id == id }
     }
 }
